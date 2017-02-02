@@ -1,3 +1,7 @@
+// AA- Could add another user input category that would take several entries from the user and add them into the array.
+// AA- Consider "graying out" letters until a category is selected to play.  This will prevent users from accidentally breaking the game.
+// AA- really good font and theme selection.  It all flows very well together and looks neat.
+
 $(document).ready(function(){
 
 //object of categories that player gets to choose from
